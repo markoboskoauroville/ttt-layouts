@@ -1,0 +1,19 @@
+s;dictate__legacy_action_row;"SELECT_ALL,PASTE,CUT,COPY,HISTORY,CLIPBOARD_HISTORY,ALL_PASTE,KEYBOARD"
+b;dictate__ma_extra_row;true
+s;dictate__ma_numeric_secondary;"/exit/rc/admin/rename ______"
+s;dictate__ma_key_colors;"n0=#FF5252 n1=#FF5252 n2=#FF5252 n3=#FF5252 n8=#FF5252 n5=#FF5252 n7=#FF5252 n4=#FF5252 n6=#FF5252 n9=#FF5252"
+b;dictate__ma_predict_row_auto_hide;false
+b;dictate__ma_edit_row;false
+b;dictate__ma_feature_row_shown;true
+s;dictate__ma_opening_view;"keyboard"
+b;dictate__ma_zone_keyboard;true
+b;dictate__ma_cursor_row;true
+s;dictate__ma_rows;"1~default rowbrecordenhr1bzone11bzone21bzone31bhistory1brecorden1bcase1brow_21bsettings1brecordhr10~switchbundo1barrow_left1barrow_right1barrow_down1barrow_up1bspace1benter1bsend1bbackspace10~bucketsbcclear1c11c21c31bautobucket1btab10~TTSbsubtitle1bread_faster1bread_slower1bread_watch1bread_stop1bread_next1bread_prev1bread_play1breader10barrow_left1barrow_right1barrow_up1barrow_down1bclip_history1bcopy1bbackspace1bpin10"
+b;keyboard__number_row;false
+b;keyboard__utility_key_enabled;false
+l;localization__active_subtype_id;1786452815014
+s;localization__subtypes;"[{\"id\":1786452815014,\"primaryLocale\":\"en-US\",\"secondaryLocales\":[],\"nlpProviders\":{\"spelling\":\"org.florisboard.nlp.providers.latin\",\"suggestion\":\"org.florisboard.nlp.providers.latin\"},\"composer\":\"org.florisboard.composers:appender\",\"currencySet\":\"org.florisboard.currencysets:dollar\",\"punctuationRule\":\"org.florisboard.localization:default\",\"popupMapping\":\"org.florisboard.localization:en\",\"layoutMap\":{\"characters\":\"org.florisboard.layouts:qwerty\",\"symbols\":\"org.florisboard.layouts:western\",\"symbols2\":\"org.florisboard.layouts:western\",\"numeric\":\"org.florisboard.layouts:western_arabic\",\"numericAdvanced\":\"org.florisboard.layouts:western_arabic\",\"numericRow\":\"org.florisboard.layouts:western_arabic\",\"phone\":\"org.florisboard.layouts:telpad\",\"phone2\":\"org.florisboard.layouts:telpad\"}}]"
+b;smartbar__flip_toggles;false
+s;theme__day_theme_id;"org.florisboard.themes:sunrise"
+s;theme__night_theme_id;"org.florisboard.themes:sunrise"
+s;theme__accent_color;"ffe8b15c00000000"
