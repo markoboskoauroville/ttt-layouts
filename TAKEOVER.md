@@ -1,3 +1,7 @@
+
+
+## From the former README (9.11.2026)
+
 # TTT layouts
 
 Keyboard rows and key colours for **TTT · Talk to Type**, the Android voice-dictation keyboard
